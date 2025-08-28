@@ -8,7 +8,7 @@ public class Ex1 {
     // Método para abrir o exemplo
     public void start(Stage primaryStage) {
         Label label = new Label(
-            "Layouts em JavaFX organizam os componentes visuais na tela.\n" +
+            "Layouts no JavaFX organizam os componentes visuais na tela.\n" +
             "Eles permitem alinhar e distribuir elementos de forma prática."
         );
 
